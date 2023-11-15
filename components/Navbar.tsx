@@ -33,6 +33,7 @@ const Navbar = () => {
         height={32}
         className="incline-block cursor-pointer lg:hidden xl:hidden"
       />
+
     </nav>
   );
 };
